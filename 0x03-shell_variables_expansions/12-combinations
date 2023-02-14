@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%s\n" [:alpha:]{a..z} | grep -v "oo"
